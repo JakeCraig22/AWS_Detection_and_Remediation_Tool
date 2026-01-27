@@ -1,0 +1,2 @@
+- Region: us-east-1
+- Created dedicated IAM admin user
