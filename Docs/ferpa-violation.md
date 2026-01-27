@@ -1,0 +1,4 @@
+- Public access block disabled on FERPA-tagged S3 bucket
+- Public bucket policy granting s3:GetObject to everyone
+- Misconfiguration used to simulate unauthorized access
+- Event logged via CloudTrail for detection timing
