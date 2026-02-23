@@ -1,1 +1,11 @@
-w
+{
+  "source": ["aws.s3"],
+  "detail-type": ["AWS API Call via CloudTrail"],
+  "detail": {
+    "eventSource": ["s3.amazonaws.com"],
+    "eventName": ["PutBucketPublicAccessBlock"],
+    "requestParameters": {
+      "bucketName": ["ferpa-student-records-demo-398351901202"]
+    }
+  }
+}
