@@ -1,4 +1,0 @@
-- Created S3 bucket representing FERPA-protected student records
-- Bucket tagged with Compliance=FERPA and DataType=StudentRecords
-- Public access blocked and encryption enabled by default
-- Used as controlled target for security misconfiguration testing
